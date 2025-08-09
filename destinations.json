@@ -1,0 +1,444 @@
+[
+  {
+    "name": "Manali",
+    "vibe": [
+      "calm",
+      "romantic",
+      "healing"
+    ],
+    "energy_level": "low",
+    "budget": "medium",
+    "region": "Himachal Pradesh",
+    "activities": [
+      "nature walks",
+      "hot springs",
+      "local cafes",
+      "mountain views"
+    ],
+    "min_energy": 1,
+    "max_energy": 4,
+    "budget_value": 15000,
+    "min_mood": 1,
+    "max_mood": 5
+  },
+  {
+    "name": "Kasol",
+    "vibe": [
+      "adventurous",
+      "spiritual",
+      "carefree"
+    ],
+    "energy_level": "medium",
+    "budget": "low",
+    "region": "Himachal Pradesh",
+    "activities": [
+      "riverside camping",
+      "psytrance cafes",
+      "trekking"
+    ],
+    "min_energy": 4,
+    "max_energy": 7,
+    "budget_value": 5000,
+    "min_mood": 1,
+    "max_mood": 5
+  },
+  {
+    "name": "Goa",
+    "vibe": [
+      "party",
+      "fun",
+      "carefree"
+    ],
+    "energy_level": "high",
+    "budget": "medium",
+    "region": "West Coast",
+    "activities": [
+      "beach parties",
+      "water sports",
+      "nightlife"
+    ],
+    "min_energy": 7,
+    "max_energy": 10,
+    "budget_value": 15000,
+    "min_mood": 1,
+    "max_mood": 5
+  },
+  {
+    "name": "Rishikesh",
+    "vibe": [
+      "spiritual",
+      "healing",
+      "adventurous"
+    ],
+    "energy_level": "medium",
+    "budget": "low",
+    "region": "Uttarakhand",
+    "activities": [
+      "yoga",
+      "river rafting",
+      "temple visits"
+    ],
+    "min_energy": 4,
+    "max_energy": 7,
+    "budget_value": 5000,
+    "min_mood": 1,
+    "max_mood": 5
+  },
+  {
+    "name": "Auroville",
+    "vibe": [
+      "spiritual",
+      "creative",
+      "calm"
+    ],
+    "energy_level": "low",
+    "budget": "medium",
+    "region": "Puducherry",
+    "activities": [
+      "meditation",
+      "community work",
+      "cycling"
+    ],
+    "min_energy": 1,
+    "max_energy": 4,
+    "budget_value": 15000,
+    "min_mood": 1,
+    "max_mood": 5
+  },
+  {
+    "name": "Spiti Valley",
+    "vibe": [
+      "mysterious",
+      "explorative",
+      "adventurous"
+    ],
+    "energy_level": "high",
+    "budget": "medium",
+    "region": "Himachal Pradesh",
+    "activities": [
+      "high-altitude drives",
+      "monastery stays",
+      "trekking"
+    ],
+    "min_energy": 7,
+    "max_energy": 10,
+    "budget_value": 15000,
+    "min_mood": 1,
+    "max_mood": 5
+  },
+  {
+    "name": "Jaipur",
+    "vibe": [
+      "royal",
+      "cultural",
+      "aesthetic"
+    ],
+    "energy_level": "medium",
+    "budget": "medium",
+    "region": "Rajasthan",
+    "activities": [
+      "palace tours",
+      "shopping",
+      "food trails"
+    ],
+    "min_energy": 4,
+    "max_energy": 7,
+    "budget_value": 15000,
+    "min_mood": 1,
+    "max_mood": 5
+  },
+  {
+    "name": "Kodaikanal",
+    "vibe": [
+      "romantic",
+      "peaceful",
+      "slow-living"
+    ],
+    "energy_level": "low",
+    "budget": "low",
+    "region": "Tamil Nadu",
+    "activities": [
+      "lake walks",
+      "forest trails",
+      "local cuisine"
+    ],
+    "min_energy": 1,
+    "max_energy": 4,
+    "budget_value": 5000,
+    "min_mood": 1,
+    "max_mood": 5
+  },
+  {
+    "name": "Shillong",
+    "vibe": [
+      "musical",
+      "fresh",
+      "adventurous"
+    ],
+    "energy_level": "medium",
+    "budget": "medium",
+    "region": "Meghalaya",
+    "activities": [
+      "cave exploration",
+      "live music",
+      "nature drives"
+    ],
+    "min_energy": 4,
+    "max_energy": 7,
+    "budget_value": 15000,
+    "min_mood": 1,
+    "max_mood": 5
+  },
+  {
+    "name": "Alleppey",
+    "vibe": [
+      "romantic",
+      "healing",
+      "slow-living"
+    ],
+    "energy_level": "low",
+    "budget": "medium",
+    "region": "Kerala",
+    "activities": [
+      "houseboats",
+      "backwaters",
+      "ayurveda"
+    ],
+    "min_energy": 1,
+    "max_energy": 4,
+    "budget_value": 15000,
+    "min_mood": 1,
+    "max_mood": 5
+  },
+  {
+    "name": "Ladakh",
+    "vibe": [
+      "adventurous",
+      "spiritual",
+      "intense"
+    ],
+    "energy_level": "high",
+    "budget": "high",
+    "region": "Ladakh",
+    "activities": [
+      "bike rides",
+      "monasteries",
+      "high passes"
+    ],
+    "min_energy": 7,
+    "max_energy": 10,
+    "budget_value": 30000,
+    "min_mood": 1,
+    "max_mood": 5
+  },
+  {
+    "name": "Pushkar",
+    "vibe": [
+      "boho",
+      "mystical",
+      "cultural"
+    ],
+    "energy_level": "medium",
+    "budget": "low",
+    "region": "Rajasthan",
+    "activities": [
+      "camel rides",
+      "desert camping",
+      "temple visits"
+    ],
+    "min_energy": 4,
+    "max_energy": 7,
+    "budget_value": 5000,
+    "min_mood": 1,
+    "max_mood": 5
+  },
+  {
+    "name": "Tawang",
+    "vibe": [
+      "serene",
+      "offbeat",
+      "spiritual"
+    ],
+    "energy_level": "medium",
+    "budget": "medium",
+    "region": "Arunachal Pradesh",
+    "activities": [
+      "monastery visits",
+      "snowy views",
+      "culture"
+    ],
+    "min_energy": 4,
+    "max_energy": 7,
+    "budget_value": 15000,
+    "min_mood": 1,
+    "max_mood": 5
+  },
+  {
+    "name": "Pondicherry",
+    "vibe": [
+      "french",
+      "calm",
+      "aesthetic"
+    ],
+    "energy_level": "low",
+    "budget": "low",
+    "region": "Tamil Nadu",
+    "activities": [
+      "beaches",
+      "french cafes",
+      "heritage walks"
+    ],
+    "min_energy": 1,
+    "max_energy": 4,
+    "budget_value": 5000,
+    "min_mood": 1,
+    "max_mood": 5
+  },
+  {
+    "name": "Coorg",
+    "vibe": [
+      "coffee",
+      "misty",
+      "calm"
+    ],
+    "energy_level": "low",
+    "budget": "medium",
+    "region": "Karnataka",
+    "activities": [
+      "coffee plantation tours",
+      "trekking",
+      "rainy vibes"
+    ],
+    "min_energy": 1,
+    "max_energy": 4,
+    "budget_value": 15000,
+    "min_mood": 1,
+    "max_mood": 5
+  },
+  {
+    "name": "Ziro Valley",
+    "vibe": [
+      "folk",
+      "green",
+      "music"
+    ],
+    "energy_level": "medium",
+    "budget": "low",
+    "region": "Arunachal Pradesh",
+    "activities": [
+      "music festivals",
+      "paddy fields",
+      "tribal culture"
+    ],
+    "min_energy": 4,
+    "max_energy": 7,
+    "budget_value": 5000,
+    "min_mood": 1,
+    "max_mood": 5
+  },
+  {
+    "name": "Munnar",
+    "vibe": [
+      "lush",
+      "healing",
+      "romantic"
+    ],
+    "energy_level": "low",
+    "budget": "medium",
+    "region": "Kerala",
+    "activities": [
+      "tea estates",
+      "scenic views",
+      "waterfalls"
+    ],
+    "min_energy": 1,
+    "max_energy": 4,
+    "budget_value": 15000,
+    "min_mood": 1,
+    "max_mood": 5
+  },
+  {
+    "name": "Udaipur",
+    "vibe": [
+      "romantic",
+      "regal",
+      "luxury"
+    ],
+    "energy_level": "low",
+    "budget": "medium",
+    "region": "Rajasthan",
+    "activities": [
+      "boat rides",
+      "palaces",
+      "sunset points"
+    ],
+    "min_energy": 1,
+    "max_energy": 4,
+    "budget_value": 15000,
+    "min_mood": 1,
+    "max_mood": 5
+  },
+  {
+    "name": "Hampi",
+    "vibe": [
+      "historic",
+      "offbeat",
+      "adventurous"
+    ],
+    "energy_level": "medium",
+    "budget": "low",
+    "region": "Karnataka",
+    "activities": [
+      "bouldering",
+      "ruins",
+      "cycling"
+    ],
+    "min_energy": 4,
+    "max_energy": 7,
+    "budget_value": 5000,
+    "min_mood": 1,
+    "max_mood": 5
+  },
+  {
+    "name": "Andaman Islands",
+    "vibe": [
+      "tropical",
+      "romantic",
+      "island life"
+    ],
+    "energy_level": "medium",
+    "budget": "high",
+    "region": "Andaman",
+    "activities": [
+      "scuba diving",
+      "snorkeling",
+      "beach walks"
+    ],
+    "min_energy": 4,
+    "max_energy": 7,
+    "budget_value": 30000,
+    "min_mood": 1,
+    "max_mood": 5
+  },
+  {
+    "name": "Darjeeling",
+    "vibe": [
+      "classic",
+      "fresh",
+      "peaceful"
+    ],
+    "energy_level": "low",
+    "budget": "medium",
+    "region": "West Bengal",
+    "activities": [
+      "toy train rides",
+      "tea gardens",
+      "sunrise points"
+    ],
+    "min_energy": 1,
+    "max_energy": 4,
+    "budget_value": 15000,
+    "min_mood": 1,
+    "max_mood": 5
+  }
+]

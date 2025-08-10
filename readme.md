@@ -1,5 +1,5 @@
 🌍 MoodTrip AI
-🚀 Live Demo — Try MoodTrip AI
+🚀 Live Demo — https://moodtrip.streamlit.app/
 
 MoodTrip AI is a prototype web application that suggests travel destinations, music playlists, and outfits based on a user’s mood, energy level, and budget. Whether you feel adventurous, relaxed, or ready to party, MoodTrip AI helps you plan a trip vibe — from where to go to what to wear and what to listen to along the way.
 
